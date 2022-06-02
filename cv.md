@@ -9,9 +9,9 @@ Discord: AdamBm#7113 (RsSchool channel as AdamBmm)
 Telegram: @BurnKvlt
 
 ## Bio ##
- *Graduate from Mendeleev University of Chemical Technology of Russia in 2021*
- Now doing PhD in same University and learn how to be a _WebDeveloper_
- You may ask me why a chemist suddenly decided to become a web developer
+ Graduate from Mendeleev University of Chemical Technology of Russia in 2021.
+ Now doing PhD in same University and learn how to be a WebDeveloper.
+ You may ask me why a chemist suddenly decided to become a web developer.
  This is because at school I was engaged in website development and even created a school website with a friend, but fate so happened that I became a chemist and decided to remember something of my youth.
  I studied at the Free Code Camp, received a certificate in HTML and CSS, currently studying JS.
 
